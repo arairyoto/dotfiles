@@ -7,3 +7,8 @@ alias gp='git push'
 alias gb='git branch'
 alias gco='git checkout'
 alias gc='git commit'
+alias i='ionic'
+alias is='ionic serve'
+alias ls='ls -a'
+alias n='npm'
+cd $HOME
