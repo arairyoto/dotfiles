@@ -11,4 +11,3 @@ alias i='ionic'
 alias is='ionic serve'
 alias ls='ls -a'
 alias n='npm'
-cd $HOME
